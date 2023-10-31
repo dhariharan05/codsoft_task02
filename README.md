@@ -1,1 +1,3 @@
 # codsoft_task02
+
+CODSOFT AI INTERNSHIP TASK 2: TIC-TAC-TOE AI
